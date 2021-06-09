@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "770565069232",
+    "firebase_url": "https://profileapp-7cd7e.firebaseio.com",
+    "project_id": "profileapp-7cd7e",
+    "storage_bucket": "profileapp-7cd7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770565069232:android:2d656fe568ba7a1ed71e75",
+        "android_client_info": {
+          "package_name": "com.epoka.flutter_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770565069232-k9n0rpqku8823r921dihccmo8bqm1ffb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epoka.flutter_shop_app",
+            "certificate_hash": "cd469889a3da1fa03f18e895dbc6a58826b414cf"
+          }
+        },
+        {
+          "client_id": "770565069232-d0nk8ekogk35vp51rv6ib9pri4icdogj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLbHfEP0L-gWQsRykkyjhuqcSh1iuYs_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770565069232-d0nk8ekogk35vp51rv6ib9pri4icdogj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

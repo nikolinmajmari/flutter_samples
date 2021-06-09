@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "761509325084",
+    "firebase_url": "https://auth-76c37.firebaseio.com",
+    "project_id": "auth-76c37",
+    "storage_bucket": "auth-76c37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761509325084:android:081255c9d8788d77d2f2d9",
+        "android_client_info": {
+          "package_name": "com.epoka.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761509325084-csf3pecc5btaeq5utoot1fmiqllohj1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk5OFnzijbp1vEtHudA8p52PO0TL84AOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761509325084-von5q4kita9im0qn73862a7cp874loc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761509325084:android:eab86567079e1171d2f2d9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761509325084-oqa3dp8l6b6kn7refgvpfqhsqcealrrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app1",
+            "certificate_hash": "cd469889a3da1fa03f18e895dbc6a58826b414cf"
+          }
+        },
+        {
+          "client_id": "761509325084-csf3pecc5btaeq5utoot1fmiqllohj1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk5OFnzijbp1vEtHudA8p52PO0TL84AOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761509325084-von5q4kita9im0qn73862a7cp874loc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
